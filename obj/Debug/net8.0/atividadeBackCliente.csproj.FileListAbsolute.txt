@@ -1,0 +1,14 @@
+D:\Documentos\estudo\Projetos\atividadeBackCliente\bin\Debug\net8.0\atividadeBackCliente.exe
+D:\Documentos\estudo\Projetos\atividadeBackCliente\bin\Debug\net8.0\atividadeBackCliente.deps.json
+D:\Documentos\estudo\Projetos\atividadeBackCliente\bin\Debug\net8.0\atividadeBackCliente.runtimeconfig.json
+D:\Documentos\estudo\Projetos\atividadeBackCliente\bin\Debug\net8.0\atividadeBackCliente.dll
+D:\Documentos\estudo\Projetos\atividadeBackCliente\bin\Debug\net8.0\atividadeBackCliente.pdb
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.AssemblyInfoInputs.cache
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.AssemblyInfo.cs
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.csproj.CoreCompileInputs.cache
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.dll
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\refint\atividadeBackCliente.dll
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.pdb
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\atividadeBackCliente.genruntimeconfig.cache
+D:\Documentos\estudo\Projetos\atividadeBackCliente\obj\Debug\net8.0\ref\atividadeBackCliente.dll
